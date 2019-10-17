@@ -1,0 +1,5 @@
+//criar projeto
+composer init
+
+// baixa dependencias
+composer update

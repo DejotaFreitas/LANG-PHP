@@ -1,0 +1,20 @@
+{
+    "name": "dejota/phppoo",
+    "authors": [
+        {
+            "name": "Dejota Freitas",
+            "email": "djxpgs@gmial.com"
+        }
+    ],
+    "autoload" : {
+      "psr-4" : {
+        "interfaces\\" : "interfaces",
+        "abstratas\\" : "abstratas",
+        "classes\\" : "classes"
+      }
+    },
+    "require" : {
+      "php" : ">=7.2"
+    }
+
+}
